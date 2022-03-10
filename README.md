@@ -1,1 +1,3 @@
-# andrea_salas.github.io
+# Build settings
+markdown: kramdown
+remote_theme: volny/creative-theme-jekyll
